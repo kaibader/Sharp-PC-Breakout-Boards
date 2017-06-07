@@ -1,17 +1,24 @@
-# Ignore list for Eagle, a PCB layout tool
+# KiCad ignore list
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*~
+_autosave-*
+*.tmp
+*.net
+*.dsn
+*.ses
+*.xml
+*.csv
 
-# Backup files
+# EagleCAD ignore list
 *.s#?
 *.b#?
 *.l#?
-
-# Eagle project file
-# It contains a serial number and references to the file structure
-# on your computer.
-# comment the following line if you want to have your project file included.
 eagle.epf
-
-# CAM files
+*.pro
+*.job
 *.$$$
 *.cmp
 *.ly2
@@ -22,15 +29,12 @@ eagle.epf
 *.sts
 *.crc
 *.crs
-
 *.dri
 *.drl
 *.gpi
 *.pls
-
 *.drd
 *.drd.*
-
 *.info
-
 *.eps
+*.lck
