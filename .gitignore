@@ -1,4 +1,3 @@
-# KiCad ignore list
 *.000
 *.bak
 *.bck
@@ -6,35 +5,12 @@
 *~
 _autosave-*
 *.tmp
+*-cache.lib
+*-rescue.lib
+*-save.pro
+*-save.kicad_pcb
 *.net
 *.dsn
 *.ses
 *.xml
 *.csv
-
-# EagleCAD ignore list
-*.s#?
-*.b#?
-*.l#?
-eagle.epf
-*.pro
-*.job
-*.$$$
-*.cmp
-*.ly2
-*.l15
-*.sol
-*.plc
-*.stc
-*.sts
-*.crc
-*.crs
-*.dri
-*.drl
-*.gpi
-*.pls
-*.drd
-*.drd.*
-*.info
-*.eps
-*.lck
