@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name expansion)(type KiCad)(uri "$(KIPRJMOD)/expansion.pretty")(options "")(descr ""))
+)
