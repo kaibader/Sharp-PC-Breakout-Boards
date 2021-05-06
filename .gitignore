@@ -2,13 +2,15 @@
 *.bak
 *.bck
 *.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.sch-bak
 *~
 _autosave-*
 *.tmp
-*-cache.lib
-*-rescue.lib
 *-save.pro
 *-save.kicad_pcb
+fp-info-cache
 *.net
 *.dsn
 *.ses
